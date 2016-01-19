@@ -1,0 +1,25 @@
+{
+  "name": "card-matching-game",
+  "version": "1.0.0",
+  "description": "card matching game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junho85/CardMatchingGame.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "june.kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junho85/CardMatchingGame/issues"
+  },
+  "homepage": "https://github.com/junho85/CardMatchingGame#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
