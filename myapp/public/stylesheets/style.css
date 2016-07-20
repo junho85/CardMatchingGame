@@ -6,3 +6,17 @@ body {
 a {
   color: #00B7FF;
 }
+
+.card {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.card.front {
+  background-color: #00B7FF;
+}
+
+.card.back {
+  background-color: #000000;
+}
